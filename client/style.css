@@ -11,6 +11,13 @@ body {
   background: #343541;
 }
 
+#chat_title{
+  background:#40414F;
+  padding: 10px;
+  border: solid 5px #22232b;
+  color: white;
+}
+
 #app {
   width: 100vw;
   height: 100vh;
